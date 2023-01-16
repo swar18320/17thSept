@@ -24,7 +24,7 @@ public class TestBase {
 		driver.get(ReadData.readPropertyFile("Url"));
 		
 		
-		
+	//i already push the code 	
 		
 	}
      
